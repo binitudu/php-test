@@ -7,6 +7,7 @@
 	<h1>MySQL Table Viewer</h1>
 	<?php
 		// Define database connection variables
+		// redeploy
 		$servername = "gl-mysql-db.mysql.database.azure.com";
 		$username = "myqladmin";
 		$password = "Gl@123456";
